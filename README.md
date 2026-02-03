@@ -5,20 +5,24 @@
 </div>
 
 ---
-
 ### 🚀 Sobre mí
 
-Estudiante de 4º de Inteligencia Artificial en la Universidad de A Coruña (UDC).
+🎓 **Estudiante de 4º de Inteligencia Artificial (UDC)** | Perfil: **Research & Product**.
 
-Me defino como un Ingeniero de IA con vocación de producto. Combino la investigación académica de alto nivel (Deep Learning y Astrofísica) con la capacidad de desarrollar y desplegar soluciones software que la gente usa en su día a día.
+Combino la investigación académica avanzada con el desarrollo de productos digitales reales. Mi enfoque va desde el **Deep Learning** en astrofísica hasta el despliegue de **Web Apps** funcionales.
 
-- 🔭 Investigación (TFG @ CITIC-LIA2): Deep Learning aplicado a misiones espaciales (Gaia/Euclid) para detectar estrellas compañeras.
+- 🔭 **Investigación (CITIC-LIA2):** Desarrollo de modelos de Deep Learning sobre datos masivos de las misiones espaciales **Gaia y Euclid**.
+  - *Objetivo:* Detección de compañeras estelares ocultas (astrofísica computacional).
 
-- 🚌 **Desarrollo Web:** Creador de [buscocoruna.com](https://buscocoruna.com), plataforma de transporte en tiempo real con usuarios activos diarios.
+- 🚌 **Desarrollo Web Full-Stack:** Creador de [buscocoruna.com](https://buscocoruna.com).
+  - *Hito:* Plataforma de transporte en tiempo real con tráfico diario activo (+30 usuarios/día). Demuestra capacidad de despliegue y mantenimiento en producción.
 
-- 🛠️ Proyectos ML: Predicción de energía, series temporales (bicicletas) y análisis de Spotify.
+- 🛠️ **Proyectos de Machine Learning & Optimización:**
+  - **Energía Renovable:** Algoritmo de **optimización** para la ubicación estratégica de parques eólicos (basado en patrones de viento e incidencia de rayos).
+  - **Forecasting:** Predicción de demanda energética mediante series temporales.
+  - 🔜 **En desarrollo:** Un sistema avanzado de analítica sobre el ecosistema **Spotify** (Music Data Mining).
 
-- 💼 Objetivo: Aportar valor real como AI Engineer o Data Scientist.
+- 💼 **Objetivo:** Aportar valor real en equipos de ingeniería de datos o IA.
 
 ---
 
