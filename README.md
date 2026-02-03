@@ -1,6 +1,6 @@
 ### Hola, soy Nathan Mariñas 👋
 
-### 🚀 Sobre mí
+### Sobre mí
 
 🎓 **Estudiante de 4º de Inteligencia Artificial (UDC)** | Perfil: **Research & Product**.
 
