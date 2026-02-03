@@ -6,7 +6,8 @@
 
 ---
 
-🚀 Sobre mí
+### 🚀 Sobre mí
+
 🎓 Estudiante de 4º de Inteligencia Artificial en la Universidad de A Coruña (UDC).
 
 Me defino como un Ingeniero de IA con vocación de producto. Combino la investigación académica de alto nivel (Deep Learning y Astrofísica) con la capacidad de desarrollar y desplegar soluciones software que la gente usa en su día a día.
