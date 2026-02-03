@@ -9,22 +9,21 @@
 
 🎓 **Estudiante de 4º de Inteligencia Artificial (UDC)** | Perfil: **Research & Product**.
 
-Combino la investigación académica avanzada con el desarrollo de productos digitales reales. Mi enfoque va desde el **Deep Learning** en astrofísica hasta el despliegue de **Web Apps** funcionales.
+Me defino por mi capacidad para moverme entre dos mundos: la **investigación científica** de vanguardia y la **ingeniería de producto** orientada al usuario final.
 
-- 🔭 **Investigación (CITIC-LIA2):** Desarrollo de modelos de Deep Learning sobre datos masivos de las misiones espaciales **Gaia y Euclid**.
-  - *Objetivo:* Detección de compañeras estelares ocultas (astrofísica computacional).
+- 🔭 **Investigación (Deep Learning):**
+  - Colaboro con el **CITIC-LIA2** aplicando redes neuronales a datos de las misiones **Gaia y Euclid**.
+  - *Objetivo:* Caracterización de sistemas estelares binarios y detección de compañeros subestelares mediante espectroscopia y fotometría.
 
-- 🚌 **Desarrollo Web Full-Stack:** Creador de [buscocoruna.com](https://buscocoruna.com).
-  - *Hito:* Plataforma de transporte en tiempo real con tráfico diario activo (+30 usuarios/día). Demuestra capacidad de despliegue y mantenimiento en producción.
+- 🚌 **Ingeniería de Producto ([buscocoruna.com](https://buscocoruna.com)):**
+  - Desarrollador y fundador de **BUS-CO**, una **PWA** de movilidad urbana en tiempo real con usuarios activos diarios.
+  - *Tech:* Geolocalización GPS, algoritmo de cálculo de rutas, integración multimodal (Bus + BiciCoruña) y diseño adaptativo (Modos Simple/Pro + Dark Mode).
 
-- 🛠️ **Proyectos de Machine Learning & Optimización:**
-  - **Energía Renovable:** Algoritmo de **optimización** para la ubicación estratégica de parques eólicos (basado en patrones de viento e incidencia de rayos).
-  - **Forecasting:** Predicción de demanda energética mediante series temporales.
-  - 🔜 **En desarrollo:** Un sistema avanzado de analítica sobre el ecosistema **Spotify** (Music Data Mining).
+- 🛠️ **Machine Learning & Optimización:**
+  - **Energía:** Optimización de parques eólicos basada en patrones climáticos (viento/rayos) y predicción de demanda en series temporales.
+  - **Data Mining:** Actualmente desarrollando un sistema avanzado de analítica musical sobre la API de **Spotify**.
 
-- 💼 **Objetivo:** Aportar valor real en equipos de ingeniería de datos o IA.
-
----
+- 💼 **Objetivo:** Unirme a un equipo de **AI Engineering** o **Data Science** donde pueda aportar tanto rigor matemático como visión de producto.
 
 ### 🛠️ Tech Stack
 
