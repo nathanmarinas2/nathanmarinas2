@@ -1,10 +1,5 @@
 ### Hola, soy Nathan Mariñas 👋
 
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
-</div>
-
----
 ### 🚀 Sobre mí
 
 🎓 **Estudiante de 4º de Inteligencia Artificial (UDC)** | Perfil: **Research & Product**.
