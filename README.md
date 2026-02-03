@@ -14,7 +14,7 @@ Me defino como un Ingeniero de IA con vocación de producto. Combino la investig
 
 - 🔭 Investigación (TFG @ CITIC-LIA2): Deep Learning aplicado a misiones espaciales (Gaia/Euclid) para detectar estrellas compañeras.
 
-- 🚌 Desarrollo Web: Creador de buscocoruna.com, plataforma de transporte en tiempo real con usuarios activos diarios.
+- 🚌 **Desarrollo Web:** Creador de [buscocoruna.com](https://buscocoruna.com), plataforma de transporte en tiempo real con usuarios activos diarios.
 
 - 🛠️ Proyectos ML: Predicción de energía, series temporales (bicicletas) y análisis de Spotify.
 
