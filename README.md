@@ -6,14 +6,18 @@
 
 ---
 
-### 🚀 Sobre mí
-🎓 Estudiante de 4º curso del **Grado en Inteligencia Artificial** en la **Universidad de A Coruña (UDC)**.
+🚀 Sobre mí
+🎓 Estudiante de 4º de Inteligencia Artificial en la Universidad de A Coruña (UDC).
 
-Apasionado por aplicar la **IA** y el **Machine Learning** para resolver problemas reales en el sector energético y la sostenibilidad. Mi enfoque combina una sólida base académica con proyectos prácticos en Data Science y Sistemas Geoespaciales.
+Me defino como un Ingeniero de IA con vocación de producto. Combino la investigación académica de alto nivel (Deep Learning y Astrofísica) con la capacidad de desarrollar y desplegar soluciones software que la gente usa en su día a día.
 
-- 🔭 Actualmente trabajando en: **TFG sobre Inteligencia Artificial aplicada a Energías Renovables**
-- 🌱 Intereses: **Deep Learning**, **Computer Vision** y **GIS Analytics**
-- 💼 Objetivo: Desarrollarme como **AI Engineer** o **Data Scientist** en proyectos de impacto.
+- 🔭 Investigación (TFG @ CITIC-LIA2): Deep Learning aplicado a misiones espaciales (Gaia/Euclid) para detectar estrellas compañeras.
+
+- 🚌 Desarrollo Web: Creador de buscocoruna.com, plataforma de transporte en tiempo real con usuarios activos diarios.
+
+- 🛠️ Proyectos ML: Predicción de energía, series temporales (bicicletas) y análisis de Spotify.
+
+- 💼 Objetivo: Aportar valor real como AI Engineer o Data Scientist.
 
 ---
 
@@ -65,10 +69,6 @@ Stack: <code>Jupyter</code> <code>Scikit-Learn</code> <code>Prophet</code>
 </table>
 
 ---
-
-### 📈 Racha de Actividad
-
-![Racha GitHub](https://github-readme-streak-stats.herokuapp.com/?user=nathanmarinas2&theme=radical)
 ---
 
 <div align="center">
