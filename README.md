@@ -55,7 +55,7 @@ Stack: <code>Python</code> <code>Folium</code> <code>Rasterio</code>
 <img src="https://img.freepik.com/free-vector/gradient-stock-market-concept_23-2149166910.jpg" width="100%" alt="Energy Prediction">
 </a>
 <br>
-<b>Time Series Forecasting</b>
+<b> Advanced Energy Demand Forecasting </b>
 </div>
 <br>
 Sistema de predicción de demanda eléctrica para el mercado español que implementa un enfoque híbrido comparando Deep Learning (Temporal Fusion Transformer) y Gradient Boosting.
