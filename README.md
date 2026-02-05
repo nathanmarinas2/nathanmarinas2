@@ -58,7 +58,7 @@ Stack: <code>Python</code> <code>Folium</code> <code>Rasterio</code>
 <b>Time Series Forecasting</b>
 </div>
 <br>
-Modelo predictivo de demanda energética.
+Sistema de predicción de demanda eléctrica para el mercado español que implementa un enfoque híbrido comparando Deep Learning (Temporal Fusion Transformer) y Gradient Boosting.
 <br><br>
 Stack: <code>Jupyter</code> <code>Scikit-Learn</code> <code>Prophet</code>
 </td>
