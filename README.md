@@ -89,7 +89,7 @@ Stack: <code>Python</code> <code>Folium</code> <code>Rasterio</code>
 <h3 align="center">⚡ EnergiaPredictorES</h3>
 <div align="center">
 <a href="https://github.com/nathanmarinas2/EnergiaPredictorES">
-<img src="https://img.freepik.com/free-vector/gradient-stock-market-concept_23-2149166910.jpg" width="100%" alt="Energy Prediction">
+<img src="https://github.com/nathanmarinas2/EnergiaPredictorES/raw/main/reports/figures/figure_1.png" width="100%" alt="Energy Prediction">
 </a>
 <br>
 <b>Advanced Energy Demand Forecasting</b>
