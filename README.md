@@ -69,10 +69,15 @@ Stack: <code>Jupyter</code> <code>Scikit-Learn</code> <code>Prophet</code>
 ---
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/nathan-marinas-pose/">
+  <a href="https://www.linkedin.com/in/nathan-marinas-pose/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
   <a href="mailto:nathanmarinaspose@gmail.com?subject=Contacto%20desde%20GitHub">
     <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail" alt="Email">
-</a>
+  </a>
+
+  <p>
+    o escríbeme directamente a: <br>
+    <strong>nathanmarinaspose@gmail.com</strong>
+  </p>
 </div>
