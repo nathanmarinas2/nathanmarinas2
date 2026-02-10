@@ -50,19 +50,32 @@ Desarrollador y fundador de **BUS-CO**, una PWA de movilidad urbana en tiempo re
 
 </details>
 
-### 🛠️ Tech Stack
-
-| Domain | Technologies |
-|:---:|:---|
-| **AI & Deep Learning** | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white) |
-| **Data** | ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?logo=scikit-learn&logoColor=white) |
-| **Web & Product** | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) ![Leaflet](https://img.shields.io/badge/-Leaflet-199900?logo=leaflet&logoColor=white) |
-| **Tools & Cloud** | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code&logoColor=white) ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) |
-
 ### 🌟 Proyectos Destacados
 
 <table>
 <tr>
+<td width="50%">
+<h3 align="center">🚲 BiciCoruña Analytics</h3>
+<div align="center">
+<a href="https://github.com/nathanmarinas2/bicicoru-a-">
+<img src="https://github.com/nathanmarinas2/bicicoru-a-/raw/main/assets/timelapse_preview.gif" width="100%" alt="BiciCoruña Data Intelligence">
+</a>
+<br>
+<b>End-to-End Fleet Intelligence</b>
+</div>
+<br>
+<details open>
+<summary>🇪🇸 Descripción</summary>
+Ingeniería de datos en tiempo real. Scraper propio (24/7), predicción de roturas de stock (LightGBM) y métricas de negocio para optimización de flota.
+</details>
+<details>
+<summary>🇬🇧 Description</summary>
+Real-time data engineering. Custom scraper (24/7), stockout prediction (LightGBM), and business metrics for fleet optimization.
+</details>
+<br>
+Stack: <code>Python</code> <code>LightGBM</code> <code>Streamlit</code> <code>Railway</code>
+</td>
+
 <td width="50%">
 <h3 align="center">🌪️ Green Energy Sentinel</h3>
 <div align="center">
@@ -84,7 +97,8 @@ Intelligent system for optimal wind farm siting in Galicia using geospatial anal
 <br>
 Stack: <code>Python</code> <code>Folium</code> <code>Rasterio</code>
 </td>
-
+</tr>
+<tr>
 <td width="50%">
 <h3 align="center">⚡ EnergiaPredictorES</h3>
 <div align="center">
@@ -105,6 +119,13 @@ Hybrid forecasting system (Deep Learning vs Gradient Boosting) for electricity d
 </details>
 <br>
 Stack: <code>Python</code> <code>PyTorch</code> <code>LightGBM</code> <code>Darts</code>
+</td>
+<td>
+<!-- Espacio reservado para tu siguiente gran proyecto -->
+<h3 align="center">🔜 Coming Soon</h3>
+<div align="center">
+<p><i>Building the next big thing...</i></p>
+</div>
 </td>
 </tr>
 </table>
