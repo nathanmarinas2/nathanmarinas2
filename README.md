@@ -60,6 +60,10 @@ I’m looking to join an **AI Engineering**, **Machine Learning Engineering** or
 </a>
 <br>
 <b>End-to-end mobility intelligence system</b>
+<br><br>
+<a href="https://www.elespanol.com/quincemil/a-coruna/20260223/proyecto-estudiante-usc-busca-revolucionar-bicicoruna-falla-tiempo/1003744139453_0.html">
+<img src="https://img.shields.io/badge/Featured%20in-El%20Espa%C3%B1ol%20%7C%20Quincemil-orange?style=flat-square&logo=newspaper" alt="Featured in Press">
+</a>
 </div>
 
 <br>
@@ -70,6 +74,7 @@ Includes real-time data collection, feature engineering, LightGBM stockout predi
 <br><br>
 
 **Highlights:**  
+- 📰 **Featured in Press:** Covered by [El Español / Quincemil](https://www.elespanol.com/quincemil/a-coruna/20260223/proyecto-estudiante-usc-busca-revolucionar-bicicoruna-falla-tiempo/1003744139453_0.html).  
 - Custom scraper for GBFS availability data.  
 - Stockout prediction with LightGBM.  
 - Station segmentation and risk analysis.  
