@@ -4,6 +4,8 @@
 
 BSc in Artificial Intelligence — **Universidade da Coruña (2022–2026)**. Previously **AI Engineer Intern at ABANCA**, working on GenAI, RAG reliability and forecasting (**9.2/10 final review**).
 
+📰 **Featured in [El Español / Quincemil](https://www.elespanol.com/quincemil/a-coruna/20260223/proyecto-estudiante-usc-busca-revolucionar-bicicoruna-falla-tiempo/1003744139453_0.html)** for my independent ML and data analysis of A Coruña's BiciCoruña bike-sharing network.
+
 I work on AI systems beyond the model itself: where the data comes from, how outputs are evaluated and validated, what the system is allowed to touch, and what happens when it is uncertain or wrong.
 
 **Models are components. Reliable systems are the product.**
@@ -16,31 +18,29 @@ I work on AI systems beyond the model itself: where the data comes from, how out
 
 ### 🚲 [BiciCoruña Fleet Optimization](https://github.com/nathanmarinas2/bicicoruna-fleet-optimization)
 
-**Real-time data engineering · Machine learning · Urban mobility**
+**Real-time Data Engineering · Machine Learning · Urban Mobility**
 
-Independent technical analysis of A Coruña's public bike-sharing network, from raw telemetry collection to predictive modeling and operational recommendations.
+Independent technical analysis of A Coruña's public bike-sharing network, from building the historical dataset to predictive modeling and operational recommendations.
 
-There was no consolidated public historical dataset, so I built one.
+There was no consolidated public historical dataset for the service, so **I built it from scratch**.
 
-* Built and deployed a Node.js collector polling the GBFS feed of **79 stations every 5 minutes**
-* Created the historical time-series dataset used for the analysis
+* Built and deployed a Node.js collector polling the GBFS feed of **all 79 stations every 5 minutes**
 * Developed a **LightGBM stockout classifier** with a 30-minute prediction horizon
 * Achieved **F1 = 0.78** and **87% accuracy**
-* Tuned the operational stockout threshold to balance precision, recall and useful reaction time
-* Segmented stations into **4 behavioral archetypes** using K-Means and elbow-method validation
+* Tuned the operational stockout threshold to provide useful reaction time before complete unavailability
+* Segmented stations into **4 behavioral archetypes** using K-Means
 * Quantified spatial and temporal service failures across the network
-* Tested transfer learning from Barcelona's Bicing dataset and discarded it when it failed to improve the local model
-* Converted model outputs into concrete fleet-rebalancing and capacity recommendations
+* Tested transfer learning from approximately **500k Barcelona Bicing records**; it produced no meaningful improvement over the local model, so I discarded the additional complexity and documented the negative result
+* Converted the analysis into concrete fleet-rebalancing and capacity recommendations
 
-The project was covered by **El Español / Quincemil** in February 2026.
-
-What I value most about this project is not the final model. It is the complete chain:
+The project demonstrates the complete chain:
 
 **data collection → feature engineering → experimentation → evaluation → operational decision**
 
 `Python` · `LightGBM` · `Pandas` · `Node.js` · `Streamlit` · `Leaflet` · `Railway`
 
 **→ [Repository](https://github.com/nathanmarinas2/bicicoruna-fleet-optimization)**
+
 
 ---
 
